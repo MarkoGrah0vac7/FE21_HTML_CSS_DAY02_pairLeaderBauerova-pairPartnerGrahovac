@@ -1,1 +1,52 @@
-$hero-height: 60vh .hero-section {}
+.container {
+    margin: auto;
+    width: 800px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 12px 0 15px -4px rgba(174, 176, 180, 0.97), -12px 0 8px -4px rgba(162, 171, 189, 0.97);
+}
+
+p,
+li {
+    color: #707070;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #DB0038;
+}
+
+h2 {
+    color: #3998A3;
+}
+
+h3 {
+    color: #474747;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+li {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.rating span {
+    color: #F4B400;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+}
+
+body {
+    font-family: "Happy Monkey";
+}
